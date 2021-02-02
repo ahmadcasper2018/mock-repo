@@ -1,1 +1,1 @@
-print("stuec")
+print("ecnlu")
