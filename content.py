@@ -1,1 +1,1 @@
-print("aoytf")
+print("nogye")
