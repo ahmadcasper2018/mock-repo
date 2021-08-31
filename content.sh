@@ -1,2 +1,1 @@
 echo "lbokh"
-echo "bgyjj"
